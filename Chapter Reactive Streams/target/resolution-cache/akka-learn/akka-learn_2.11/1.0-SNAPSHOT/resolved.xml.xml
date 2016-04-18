@@ -4,7 +4,7 @@
 		module="akka-learn_2.11"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20160417230806"
+		publication="20160418123531"
 	>
 		<description>
 		Akka-Learn
@@ -40,5 +40,6 @@
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.2.4" conf="test->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.11" rev="2.3.6" conf="test->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-stream_2.11" rev="2.4.4" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-actor_2.11" rev="2.4.4" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
