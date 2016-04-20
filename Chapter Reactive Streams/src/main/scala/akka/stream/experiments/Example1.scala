@@ -20,7 +20,7 @@ object Example1 extends App{
   implicit val system = ActorSystem("QuickStart")
   implicit val materializer = ActorMaterializer()
   
-  val source: Source[Int, NotUsed] = Source(1 to 1000000)
+  val source: Source[Int, NotUsed] = Source(1 to 1000)
   source.runForeach { println }(materializer)
   
   val factorials = source.scan(BigInt(1))((acc, next) => acc * next)
@@ -36,8 +36,8 @@ object Example1 extends App{
   factorials.map { _.toString()}.runWith(lineSink("Factorial.txt"))
   
   //Time Based Stream Processing
-  val done: Future[Done] = factorials.zipWith(Source(0 to 1000000))((acc, next) => s"$acc != $next")
-                                     .throttle(100, FiniteDuration.apply(5, TimeUnit.SECONDS), 20, ThrottleMode.shaping)
+  val done: Future[Done] = factorials.zipWith(Source(0 to 1000))((acc, next) => s"$acc != $next")
+                                     .throttle(50, FiniteDuration.apply(5, TimeUnit.SECONDS), 20, ThrottleMode.shaping)
                                      .runForeach { println }
                              
   //system.shutdown()                       
