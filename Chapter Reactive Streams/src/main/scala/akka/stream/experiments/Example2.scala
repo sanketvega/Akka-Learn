@@ -5,6 +5,10 @@ import akka.stream.ActorMaterializer
 import akka.stream.scaladsl.Source
 import akka.NotUsed
 import akka.stream.scaladsl.Sink
+import scala.util.Success
+import scala.util.Failure
+import scala.concurrent.Await
+import scala.concurrent.duration.Duration
 
 object Example2 extends App {
 
@@ -41,7 +45,16 @@ object Example2 extends App {
    
    authors.runWith(Sink.foreach { println })
    
-   system.terminate()
+   import system.dispatcher
+   val done = system.terminate()
+   
+   done.onComplete { x => x match {
+       case Success(x) => println("Success")
+       case Failure(x) => println("Failure")
+     }
+     val res = Await.result(done, Duration.Inf)
+     Console.println("Done : "+res)
+   }
 
 }
 
