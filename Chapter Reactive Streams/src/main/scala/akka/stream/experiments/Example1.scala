@@ -15,7 +15,7 @@ import java.io.PrintStream
 
 object Example1 extends App{  
   
-  //System.setOut(new PrintStream("Result.txt"))
+  System.setOut(new PrintStream("Result.txt"))
   
   implicit val system = ActorSystem("QuickStart")
   implicit val materializer = ActorMaterializer()
@@ -37,8 +37,8 @@ object Example1 extends App{
   
   //Time Based Stream Processing
   val done: Future[Done] = factorials.zipWith(Source(0 to 1000))((acc, next) => s"$acc != $next")
-                                     .throttle(50, FiniteDuration.apply(3, TimeUnit.SECONDS), 20, ThrottleMode.shaping)
+                                     .throttle(50, FiniteDuration.apply(5, TimeUnit.SECONDS), 20, ThrottleMode.shaping)
                                      .runForeach { println }
-  Thread.sleep(60000)                           
-  system.terminate()                  
+                             
+  //system.shutdown()                       
 }
