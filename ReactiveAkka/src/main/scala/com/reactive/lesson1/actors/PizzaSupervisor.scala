@@ -20,7 +20,7 @@ class PizzaSupervisor extends Actor{
     
     case MargheritaRequest => println("I have MargheritaRequest !!")
     
-    case PizzaException => println("Pizza Fried !!!")
+    case PizzaException => throw new Exception("Pizza Fried !!!")
   }
   
 }
