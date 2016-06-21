@@ -1,5 +1,8 @@
 package com.reactive.lesson2.messages
 
+import akka.actor.ActorRef
+import scala.concurrent.duration.Deadline
+
 object MasterWorkerProtocol {
   
   case class RegisterWorker(workerId: String)
@@ -9,4 +12,5 @@ object MasterWorkerProtocol {
   
   case object WorkIsReady
   case class Ack(id: String)
+  
 }
