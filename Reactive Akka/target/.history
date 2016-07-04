@@ -1,0 +1,20 @@
+clean
+test
+reload
+compile
+test
+compile
+test
+exit
+compile
+test
+clear
+clean
+compile
+test
+run last test:test
+last test:test
+reload
+clean
+test
+exit

@@ -1,0 +1,16 @@
+compile
+eclipse
+exit
+eclipse
+clean
+compile
+reload
+compile
+eclipse
+exit
+reload
+compile
+reload
+compile
+eclipse
+exit

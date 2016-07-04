@@ -1,0 +1,10 @@
+This is a write-up of what I learned about Akka Streams between my recent personal research and by attending meet-ups and conferences in particular Scala-Italy 2015
+The objective of this document is to crystallise the relatively large amount of knowledge I have been ingesting in a short period of time And of course
+Akka Streams is an implementation of Reactive Streams specification
+A document created by the joined efforts of companies including Netflix Pivotal RedHat Twitter and Typesafe
+Reactive Streams is a standard for asynchronous stream processing with non-blocking back pressure
+Reactive Streams has a lot of technically solid points but the reasons that make it really meaningful to the world software community is summarized in a couple of distinctive traits
+Reactive Streams does not mandate a uniform API across the implementations
+Reactive Streams standardises only concepts and behaviours Publisher Subscriber Subscription Demand
+Talking about what Akka Streams brings to the table everybody seems so excited about the standardized out of the box back pressure
+But the real gold to me is all about the introduction of a new level of abstraction that goes well beyond actors
