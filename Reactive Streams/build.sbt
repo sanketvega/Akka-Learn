@@ -1,15 +1,17 @@
-name := """Akka-Learn"""
+name := """Akka-Streams"""
 
 version := "1.0-SNAPSHOT"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.11.8"
 
 libraryDependencies ++= Seq(
-  "com.typesafe.akka" % "akka-http-experimental_2.11" % "2.4.4",
-  "com.typesafe.akka" % "akka-http-core-experimental_2.11" % "2.0.4",
-  "com.syncthemall" % "boilerpipe" % "1.2.2",
-  "org.scalatest" %% "scalatest" % "2.2.4" % "test",
-  "com.typesafe.akka" %% "akka-testkit" % "2.3.6" % "test"
+  "com.typesafe.akka" % "akka-actor_2.11" % "2.4.7",
+  "com.typesafe.akka" % "akka-testkit_2.11" % "2.4.7",
+  "com.typesafe.akka" % "akka-stream_2.11" % "2.4.7",
+  "com.typesafe.akka" % "akka-cluster_2.11" % "2.4.7",
+  "com.typesafe.akka" % "akka-remote_2.11" % "2.4.7",
+  "com.typesafe.akka" % "akka-persistence_2.11" % "2.4.7",
+  "com.typesafe.akka" % "akka-contrib_2.11" % "2.4.7",
+  "com.typesafe.akka" % "akka-stream-testkit_2.11" % "2.4.7",
+  "org.scalatest" %% "scalatest" % "2.2.4" % "test"
 )
-libraryDependencies += "com.typesafe.akka" % "akka-stream_2.11" % "2.4.4"
-libraryDependencies += "com.typesafe.akka" % "akka-actor_2.11" % "2.4.4"
