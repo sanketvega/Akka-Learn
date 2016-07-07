@@ -4,14 +4,14 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes
+output dir -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes
 compile options:
 0 items
 javac options:
 0 items
 compiler version:
 1 items
-0 -> 2.11.6
+0 -> 2.11.8
 compile order:
 1 items
 0 -> Mixed
@@ -19,16 +19,102 @@ name hashing:
 1 items
 0 -> true
 products:
-4 items
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\SimpleGraphExample$.class
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\SimpleGraphExample.class
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes\akka\stream\main\Main$.class
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes\akka\stream\main\Main.class
+58 items
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processA$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processA$2.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processA$3.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processB$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processB$2.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processB$3.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processC$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processC$2.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\main\Main$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\main\Main.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\BasicExamples$$anonfun$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\BasicExamples$$anonfun$main$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\BasicExamples$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\BasicExamples.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$2.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$3.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$4.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$5.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$6.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$7.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$lineSink$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$delayedInit$body.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$$anonfun$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$$anonfun$2.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$$anonfun$3.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$$anonfun$4.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Author$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Author.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$HashTag$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$HashTag.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Tweet$$anonfun$hashTags$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Tweet$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Tweet.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$delayedInit$body.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibMain$$anonfun$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibMain$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibMain$delayedInit$body.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibMain.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibonacciPublisher$$anonfun$receive$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber$$anonfun$receive$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$1$$anonfun$apply$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$1$$anonfun$apply$2.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$1.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$2$$anonfun$apply$3.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$2.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$3.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$delayedInit$body.class
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample.class
 binary dependencies:
-3 items
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+35 items
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> C:\Users\kkishore\.ivy2\cache\org.reactivestreams\reactive-streams\jars\reactive-streams-1.0.0.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -38,7 +124,10 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-0 items
+3 items
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -46,60 +135,661 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-4 items
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> akka.stream.experiments.SimpleGraphExample
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> akka.stream.experiments.SimpleGraphExample$
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> akka.stream.main.Main
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> akka.stream.main.Main$
+58 items
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$$anonfun$processA$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$$anonfun$processA$2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$$anonfun$processA$3
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$$anonfun$processB$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$$anonfun$processB$2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$$anonfun$processB$3
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$$anonfun$processC$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka.stream.experiments.processors.BasicProcessors$$anonfun$processC$2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> akka.stream.main.Main
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> akka.stream.main.Main$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> com.akka.stream.experiments.BasicExamples
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> com.akka.stream.experiments.BasicExamples$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> com.akka.stream.experiments.BasicExamples$$anonfun$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> com.akka.stream.experiments.BasicExamples$$anonfun$main$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$$anonfun$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$$anonfun$2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$$anonfun$3
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$$anonfun$4
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$$anonfun$5
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$$anonfun$6
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$$anonfun$7
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$$anonfun$lineSink$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com.akka.stream.experiments.Example1$delayedInit$body
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$$anonfun$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$$anonfun$2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$$anonfun$3
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$$anonfun$4
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$Author
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$Author$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$HashTag
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$HashTag$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$Tweet
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$Tweet$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$Tweet$$anonfun$hashTags$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com.akka.stream.experiments.Example2$delayedInit$body
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> com.akka.stream.experiments.fibonnoci.FibMain
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> com.akka.stream.experiments.fibonnoci.FibMain$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> com.akka.stream.experiments.fibonnoci.FibMain$$anonfun$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> com.akka.stream.experiments.fibonnoci.FibMain$delayedInit$body
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> com.akka.stream.experiments.fibonnoci.FibonacciPublisher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> com.akka.stream.experiments.fibonnoci.FibonacciPublisher$$anonfun$receive$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> com.akka.stream.experiments.fibonnoci.FibonacciSubscriber
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> com.akka.stream.experiments.fibonnoci.FibonacciSubscriber$$anonfun$receive$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample$
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample$$anonfun$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample$$anonfun$1$$anonfun$apply$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample$$anonfun$1$$anonfun$apply$2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample$$anonfun$2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample$$anonfun$2$$anonfun$apply$3
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample$$anonfun$3
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com.akka.stream.experiments.WordCountExample$delayedInit$body
 used names:
-14 items
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> <init>
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> AnyRef
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> SimpleGraphExample
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> akka
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> experiments
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> scala
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> stream
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> <init>
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> App
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> Main
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> akka
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> main
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> scala
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> stream
+465 items
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> %
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> *
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> +
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> -
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> ==
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> AnyRef
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> BasicProcessors
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> Flow
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> Long
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> Math
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> NotUsed
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> Predef
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> abs
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> apply
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> experiments
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> filter
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> java
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> lang
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> log
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> map
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> println
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> processors
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> reduce
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> scaladsl
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> toDouble
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> toLong
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> x
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> App
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> Main
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> main
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> ActorMaterializer
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> ActorSystem
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> AnyRef
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Array
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Await
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> BasicExamples
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> BasicProcessors
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Duration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Failure
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Flow
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Inf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Long
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> NotUsed
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Predef
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Sink
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Source
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> String
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Success
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> Unit
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> actor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> apply
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> async
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> com
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> concurrent
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> dispatcher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> done
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> duration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> experiments
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> foreach
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> isInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> longWrapper
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> materializer
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> onComplete
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> println
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> processA
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> processB
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> processC
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> processors
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> result
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> runWith
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> scaladsl
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> source
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> system
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> terminate
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> to
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> util
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> via
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> x
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> *
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> +
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> ActorMaterializer
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> ActorSystem
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> App
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Await
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> BigInt
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> ByteString
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Done
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Duration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Example1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Failure
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> File
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> FileIO
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> FiniteDuration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Flow
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Future
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> IOResult
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Inf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Int
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Keep
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> NotUsed
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Predef
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> PrintStream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Sink
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Source
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> String
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> StringContext
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> Success
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> ThrottleMode
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> TimeUnit
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> acc
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> actor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> apply
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> com
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> concurrent
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> dispatcher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> done
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> duration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> experiments
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> factorials
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> fileName
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> int2bigInt
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> intWrapper
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> io
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> isInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> java
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> lineSink
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> map
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> materializer
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> math
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> next
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> num
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> onComplete
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> package
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> println
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> result
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> right
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> runForeach
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> runWith
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> s
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> scaladsl
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> scan
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> shaping
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> source
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> system
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> terminate
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> throttle
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> to
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> toFile
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> toMat
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> toString
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> util
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> x
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> zipWith
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> &&
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> +
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> ::
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> ==
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> A1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> AbstractFunction1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> AbstractFunction3
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> ActorMaterializer
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> ActorSystem
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> App
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Array
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Author
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Await
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> B1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> ClassTag
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Console
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Duration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Example2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Failure
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Function1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> HashTag
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Inf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Long
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Nil
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> None
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> NotUsed
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Predef
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Product
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> ScalaRunTime
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Serializable
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Set
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Sink
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Source
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Statics
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> String
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Success
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> System
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> Tweet
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> _hashCode
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> _toString
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> actor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> anyHash
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> apply
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> asInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> author
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> authors
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> body
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> canBuildFrom
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> collect
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> com
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> concurrent
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> contains
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> currentTimeMillis
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> dispatcher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> done
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> duration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> eq
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> experiments
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> filter
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> finalizeHash
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> foreach
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> handler
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> hashTags
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> immutable
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> isInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> java
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> lang
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> longHash
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> map
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> materializeClassTag
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> materializer
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> mix
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> name
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> ne
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> onComplete
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> package
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> println
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> refArrayOps
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> res
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> result
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> runWith
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> runtime
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> scaladsl
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> split
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> startsWith
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> system
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> terminate
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> timeStamp
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> toSet
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> toString
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> tweets
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> typedProductIterator
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> unchecked
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> util
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> x
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> ||
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> ActorPublisher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> ActorSubscriber
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> ActorSystem
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> App
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> BigInteger
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> ClassTag
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> FibMain
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> FibonacciPublisher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> FibonacciSubscriber
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> Props
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> actor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> actorOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> apply
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> com
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> experiments
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> fibonnoci
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> info
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> java
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> log
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> materializeClassTag
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> math
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> package
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> publisher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> publisherActor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> subscribe
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> subscriber
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> subscriberActor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> system
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> &&
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> +
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> ==
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> >
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> A1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> ActorLogging
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> ActorPublisher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> ActorPublisherMessage
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> B1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> BigInt
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> BigInteger
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> Cancel
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> FibonacciPublisher
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> Function1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> ONE
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> Unit
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> ZERO
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> actor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> add
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> apply
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> asInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> cnt
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> com
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> context
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> current
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> current_=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> debug
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> experiments
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> fibonnoci
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> isActive
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> isInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> java
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> javaBigInteger2bigInt
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> log
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> math
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> n
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> nextFib
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> onNext
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> package
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> previous
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> previous_=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> self
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> sendFibs
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> stop
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> tmp
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> totalDemand
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> unchecked
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> while$1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> ==
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> A1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> ActorLogging
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> ActorSubscriber
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> ActorSubscriberMessage
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> B1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> BigInteger
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> FibonacciSubscriber
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> Function1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> Long
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> OnComplete
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> Thread
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> WatermarkRequestStrategy
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> actor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> apply
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> asInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> cause
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> com
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> context
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> debug
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> delay
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> element
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> exception
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> experiments
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> fib
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> fibonnoci
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> isInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> java
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> lang
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> log
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> math
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> requestStrategy
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> self
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> sleep
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> stop
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> unchecked
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> +
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> <init>
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> ActorMaterializer
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> ActorSystem
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> App
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Await
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Codec
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Console
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Done
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Duration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> ExecutionContext
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Failure
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> File
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Future
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Implicits
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Inf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Iterable
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> List
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> NotUsed
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Predef
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Sink
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Source
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> String
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> Success
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> WordCountExample
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> _1
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> _2
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> actor
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> actorSystem
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> akka
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> apply
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> buildSource
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> canBuildFrom
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> com
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> concurrent
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> count
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> done
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> duration
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> experiments
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> fallbackSystemCodec
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> fileName
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> foreach
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> fromFile
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> getLines
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> global
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> groupBy
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> immutable
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> io
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> isInstanceOf
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> java
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> length
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> map
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> mapValues
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> materializer
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> mkString
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> ne
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> onComplete
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> println
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> refArrayOps
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> res
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> result
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> runWith
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> scala
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> scaladsl
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> source
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> split
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> stream
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> terminate
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> toList
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> util
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> word
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> x
 product stamps:
-4 items
-D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\SimpleGraphExample$.class -> lastModified(1460963105810)
-D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\SimpleGraphExample.class -> lastModified(1460963105776)
-D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes\akka\stream\main\Main$.class -> lastModified(1460963105825)
-D:\Git\Akka-Scala\Chapter Reactive Streams\target\scala-2.11\classes\akka\stream\main\Main.class -> lastModified(1460963105817)
+58 items
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processA$1.class -> lastModified(1467883393231)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processA$2.class -> lastModified(1467883393233)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processA$3.class -> lastModified(1467883393242)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processB$1.class -> lastModified(1467883393245)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processB$2.class -> lastModified(1467883393248)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processB$3.class -> lastModified(1467883393251)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processC$1.class -> lastModified(1467883393253)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$$anonfun$processC$2.class -> lastModified(1467883393255)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors$.class -> lastModified(1467883393227)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\experiments\processors\BasicProcessors.class -> lastModified(1467883393223)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\main\Main$.class -> lastModified(1467883393260)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\akka\stream\main\Main.class -> lastModified(1467883393256)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\BasicExamples$$anonfun$1.class -> lastModified(1467883393266)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\BasicExamples$$anonfun$main$1.class -> lastModified(1467883393268)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\BasicExamples$.class -> lastModified(1467883393265)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\BasicExamples.class -> lastModified(1467883393262)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$1.class -> lastModified(1467883393279)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$2.class -> lastModified(1467883393280)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$3.class -> lastModified(1467883393282)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$4.class -> lastModified(1467883393284)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$5.class -> lastModified(1467883393286)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$6.class -> lastModified(1467883393287)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$7.class -> lastModified(1467883393289)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$$anonfun$lineSink$1.class -> lastModified(1467883393291)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$.class -> lastModified(1467883393277)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1$delayedInit$body.class -> lastModified(1467883393293)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example1.class -> lastModified(1467883393271)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$$anonfun$1.class -> lastModified(1467883393301)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$$anonfun$2.class -> lastModified(1467883393303)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$$anonfun$3.class -> lastModified(1467883393305)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$$anonfun$4.class -> lastModified(1467883393307)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$.class -> lastModified(1467883393299)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Author$.class -> lastModified(1467883393310)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Author.class -> lastModified(1467883393313)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$delayedInit$body.class -> lastModified(1467883393330)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$HashTag$.class -> lastModified(1467883393315)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$HashTag.class -> lastModified(1467883393319)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Tweet$$anonfun$hashTags$1.class -> lastModified(1467883393328)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Tweet$.class -> lastModified(1467883393326)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2$Tweet.class -> lastModified(1467883393323)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\Example2.class -> lastModified(1467883393295)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibMain$$anonfun$1.class -> lastModified(1467883393358)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibMain$.class -> lastModified(1467883393357)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibMain$delayedInit$body.class -> lastModified(1467883393360)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibMain.class -> lastModified(1467883393353)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibonacciPublisher$$anonfun$receive$1.class -> lastModified(1467883393369)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.class -> lastModified(1467883393367)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber$$anonfun$receive$1.class -> lastModified(1467883393376)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.class -> lastModified(1467883393373)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$1$$anonfun$apply$1.class -> lastModified(1467883393338)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$1$$anonfun$apply$2.class -> lastModified(1467883393340)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$1.class -> lastModified(1467883393337)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$2$$anonfun$apply$3.class -> lastModified(1467883393344)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$2.class -> lastModified(1467883393342)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$$anonfun$3.class -> lastModified(1467883393347)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$.class -> lastModified(1467883393335)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample$delayedInit$body.class -> lastModified(1467883393349)
+D:\Git\Akka-Learn\Reactive Streams\target\scala-2.11\classes\com\akka\stream\experiments\WordCountExample.class -> lastModified(1467883393332)
 source stamps:
-2 items
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> hash(2694f1d112427636962a179548732b6f9537c22f)
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> hash(7dea2f398e62f65910337ae3c3697797819df16a)
+9 items
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> hash(1b8532f7179da9b35ce5a42f2465df810e4f7791)
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> hash(7dea2f398e62f65910337ae3c3697797819df16a)
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> hash(34cd7a51ecda68c2b9bde219b8c8a73bd64bf3ea)
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> hash(1a1e6c65866607b633aab496194d469647e8d67e)
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> hash(a989dc062a22ce39ff926ddbf2250995b4fdd9e7)
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> hash(d914de922d67067a7564f5cb951475068d5cfb99)
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> hash(0f4f003671d2daf34930dc527c18dc82ac95ebf0)
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> hash(6b7adf6e12943c8c75e49fb787f4a97ef5774f44)
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> hash(9df2c47d388d6de56993fd13886de7a2837e767a)
 binary stamps:
-2 items
+5 items
 C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar -> lastModified(1457349612406)
-C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> lastModified(1424912463000)
+C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar -> lastModified(1464960977000)
+C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar -> lastModified(1464961077000)
+C:\Users\kkishore\.ivy2\cache\org.reactivestreams\reactive-streams\jars\reactive-streams-1.0.0.jar -> lastModified(1430324093000)
+C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
 class names:
-2 items
+5 items
 C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar -> java.lang.Object
-C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> scala.App
+C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.7.jar -> akka.actor.ActorLogging
+C:\Users\kkishore\.ivy2\cache\com.typesafe.akka\akka-stream_2.11\jars\akka-stream_2.11-2.4.7.jar -> akka.stream.actor.ActorSubscriber
+C:\Users\kkishore\.ivy2\cache\org.reactivestreams\reactive-streams\jars\reactive-streams-1.0.0.jar -> org.reactivestreams.Publisher
+C:\Users\kkishore\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.runtime.AbstractPartialFunction
 internal apis:
-2 items
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDZ9HEeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEUXdD90AAZub3RpZnlzcQB+AAy+flRQdAAEd2FpdHNxAH4ADNRPT1h0AA0kYXNJbnN0YW5jZU9mc3EAfgAMApZbrXQAElNpbXBsZUdyYXBoRXhhbXBsZXNxAH4ADEtWTlF0AAZlcXVhbHNzcQB+AAwE/RkddAAMYXNJbnN0YW5jZU9mc3EAfgAMxB2gBHQADHN5bmNocm9uaXplZHNxAH4ADDm8xrx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMZaDU13QACW5vdGlmeUFsbHNxAH4ADIhDRXx0AAxpc0luc3RhbmNlT2ZzcQB+AAz1RWLHdAACPT1zcQB+AAxZyXARdAAFY2xvbmVzcQB+AAzm5RizdAAIdG9TdHJpbmdzcQB+AAwqlxokdAACIT1zcQB+AAz8wBm1dAAIZ2V0Q2xhc3NzcQB+AAxfUh+GdAACbmVzcQB+AAz9xrKjdAACZXFzcQB+AAwXl8bndAACIyNzcQB+AAyVGu02dAAIZmluYWxpemVzcQB+AAz01A2udAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgA/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAqYWtrYS5zdHJlYW0uZXhwZXJpbWVudHMuU2ltcGxlR3JhcGhFeGFtcGxldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBXc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AD9MAAlpbmhlcml0ZWRxAH4AP0wAB3BhcmVudHNxAH4AP3hxAH4AXHNxAH4AV3VxAH4AOgAAAABzcQB+AFd1cQB+ADoAAAAAc3EAfgBXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBbdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBbc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB0dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB1c3EAfgBodAADQW55c3EAfgBsc3EAfgBvdXEAfgByAAAAAnNxAH4AdHQABXNjYWxhcQB+AHt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABdha2thLnN0cmVhbS5leHBlcmltZW50c3NxAH4AhXQAC2Fra2Euc3RyZWFtc3EAfgCFdAAEYWtrYXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVCgv0zR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABERDpcR2l0XEFra2EtU2NhbGFcQ2hhcHRlciBSZWFjdGl2ZSBTdHJlYW1zXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQmlPHREkJ2NpYqF5VIcytvlTfCLw==
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBftPLHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFUuOrd0AAZub3RpZnlzcQB+AAx5oJHBdAAEd2FpdHNxAH4ADOibHHt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMfs6ijnQABmVxdWFsc3NxAH4ADOJuH6x0AAxhc0luc3RhbmNlT2ZzcQB+AAyPvIhAdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwYz9kJdAAMc3luY2hyb25pemVkc3EAfgAMEHI+YXQADSRpc0luc3RhbmNlT2ZzcQB+AAxTzioJdAAEbWFpbnNxAH4ADDfrmG90AAlub3RpZnlBbGxzcQB+AAxsYjSFdAAMaXNJbnN0YW5jZU9mc3EAfgAM8CNJenQAAj09c3EAfgAMcTGN/HQABWNsb25lc3EAfgAMztLHB3QABiRpbml0JHNxAH4ADF0ISh10AARNYWluc3EAfgAM3UFDSXQACHRvU3RyaW5nc3EAfgAMzAMEs3QABGFyZ3NzcQB+AAxHz14edAACIT1zcQB+AAwbqS86dAAIZ2V0Q2xhc3NzcQB+AAy/5Z+BdAACbmVzcQB+AAw35gOSdAACZXFzcQB+AAwnHol1dAALZGVsYXllZEluaXRzcQB+AAwYEVHwdAACIyNzcQB+AAwbZzjxdAAIZmluYWxpemVzcQB+AAwlDSMSdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVYWtrYS5zdHJlYW0ubWFpbi5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaHNxAH4AY3VxAH4ARAAAAABzcQB+AGN1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHJ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCMc3EAfgBWAHEAfgAfdXEAfgBZAAAAAHNxAH4Af3QABFVuaXRxAH4AhXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFx0AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCAWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB/dAAFQXJyYXlxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB/dAAGU3RyaW5nc3EAfgCDc3EAfgCGdXEAfgCJAAAAA3NxAH4Ai3QABGphdmFzcQB+AIt0AARsYW5ncQB+AJBzcQB+AGN1cQB+AKcAAAAEc3EAfgB/dAADQXBwcQB+AIVzcQB+AH90AAtEZWxheWVkSW5pdHEAfgCFc3EAfgB/dAAGT2JqZWN0cQB+AKtzcQB+AH90AANBbnlxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEGFra2Euc3RyZWFtLm1haW5zcQB+AL50AAtha2thLnN0cmVhbXNxAH4AvnQABGFra2FzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVQoL9M0dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAREQ6XEdpdFxBa2thLVNjYWxhXENoYXB0ZXIgUmVhY3RpdmUgU3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUfeovOY5i9lkQM3rjw2l3l4Gd8Wo=
+9 items
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDDr7KtAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAvNe2V0AAZub3RpZnlzcQB+AAzjHl8wdAAEd2FpdHNxAH4ADPXR/yh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMC/5ZjHQABmVxdWFsc3NxAH4ADLSP29t0AAhwcm9jZXNzQXNxAH4ADJ9TO1V0AAxhc0luc3RhbmNlT2ZzcQB+AAwIQ8L6dAAMc3luY2hyb25pemVkc3EAfgAMuuRxcnQADSRpc0luc3RhbmNlT2ZzcQB+AAxBfYRSdAAIcHJvY2Vzc0JzcQB+AAyrwkljdAAJbm90aWZ5QWxsc3EAfgAMhYQym3QADGlzSW5zdGFuY2VPZnNxAH4ADGCd+FZ0AAhwcm9jZXNzQ3NxAH4ADG8zUMp0AAI9PXNxAH4ADFvJCv50AAVjbG9uZXNxAH4ADLJ1Tet0AAh0b1N0cmluZ3NxAH4ADItE/w50AAIhPXNxAH4ADJSwL3J0AAhnZXRDbGFzc3NxAH4ADBgTfr50AAJuZXNxAH4ADPd3ued0AAJlcXNxAH4ADCQ0zSt0AAIjI3NxAH4ADCQMFnJ0AAhmaW5hbGl6ZXNxAH4ADBvxM0Z0AA9CYXNpY1Byb2Nlc3NvcnNzcQB+AAw8Q2kFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAyYWtrYS5zdHJlYW0uZXhwZXJpbWVudHMucHJvY2Vzc29ycy5CYXNpY1Byb2Nlc3NvcnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAImFra2Euc3RyZWFtLmV4cGVyaW1lbnRzLnByb2Nlc3NvcnNzcQB+AIt0ABdha2thLnN0cmVhbS5leHBlcmltZW50c3NxAH4Ai3QAC2Fra2Euc3RyZWFtc3EAfgCLdAAEYWtrYXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVcSq5yh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8RDpcR2l0XEFra2EtTGVhcm5cUmVhY3RpdmUgU3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUG4Uy9xedqbNc5aQvJGXfgQ5Pd5E=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBftPLHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFUuOrd0AAZub3RpZnlzcQB+AAx5oJHBdAAEd2FpdHNxAH4ADOibHHt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMfs6ijnQABmVxdWFsc3NxAH4ADOJuH6x0AAxhc0luc3RhbmNlT2ZzcQB+AAyPvIhAdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwYz9kJdAAMc3luY2hyb25pemVkc3EAfgAMEHI+YXQADSRpc0luc3RhbmNlT2ZzcQB+AAxTzioJdAAEbWFpbnNxAH4ADDfrmG90AAlub3RpZnlBbGxzcQB+AAxsYjSFdAAMaXNJbnN0YW5jZU9mc3EAfgAM8CNJenQAAj09c3EAfgAMcTGN/HQABWNsb25lc3EAfgAMztLHB3QABiRpbml0JHNxAH4ADF0ISh10AARNYWluc3EAfgAM3UFDSXQACHRvU3RyaW5nc3EAfgAMzAMEs3QABGFyZ3NzcQB+AAxHz14edAACIT1zcQB+AAwbqS86dAAIZ2V0Q2xhc3NzcQB+AAy/5Z+BdAACbmVzcQB+AAw35gOSdAACZXFzcQB+AAwnHol1dAALZGVsYXllZEluaXRzcQB+AAwYEVHwdAACIyNzcQB+AAwbZzjxdAAIZmluYWxpemVzcQB+AAwlDSMSdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVYWtrYS5zdHJlYW0ubWFpbi5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaHNxAH4AY3VxAH4ARAAAAABzcQB+AGN1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHJ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCMc3EAfgBWAHEAfgAfdXEAfgBZAAAAAHNxAH4Af3QABFVuaXRxAH4AhXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFx0AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCAWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB/dAAFQXJyYXlxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB/dAAGU3RyaW5nc3EAfgCDc3EAfgCGdXEAfgCJAAAAA3NxAH4Ai3QABGphdmFzcQB+AIt0AARsYW5ncQB+AJBzcQB+AGN1cQB+AKcAAAAEc3EAfgB/dAADQXBwcQB+AIVzcQB+AH90AAtEZWxheWVkSW5pdHEAfgCFc3EAfgB/dAAGT2JqZWN0cQB+AKtzcQB+AH90AANBbnlxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEGFra2Euc3RyZWFtLm1haW5zcQB+AL50AAtha2thLnN0cmVhbXNxAH4AvnQABGFra2FzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVXEqucodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPEQ6XEdpdFxBa2thLUxlYXJuXFJlYWN0aXZlIFN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFH3qLzmOYvZZEDN648Npd5eBnfFq
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBIDU5TAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCQ+oUV0AAZub3RpZnlzcQB+AAydxxlUdAAEd2FpdHNxAH4ADJAZKXJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMbxHzJXQABmVxdWFsc3NxAH4ADKn/xKx0AA1CYXNpY0V4YW1wbGVzc3EAfgAMTHJkxnQADGFzSW5zdGFuY2VPZnNxAH4ADC0IPWJ0AAxzeW5jaHJvbml6ZWRzcQB+AAyiJr6BdAANJGlzSW5zdGFuY2VPZnNxAH4ADFcTqZ10AARtYWluc3EAfgAMBIJeNnQACW5vdGlmeUFsbHNxAH4ADA2SraR0AAxpc0luc3RhbmNlT2ZzcQB+AAzoreXVdAACPT1zcQB+AAwsxPMudAAFY2xvbmVzcQB+AAwmr1FkdAAIdG9TdHJpbmdzcQB+AAwIu1iCdAACIT1zcQB+AAx/BO3kdAAIZ2V0Q2xhc3NzcQB+AAw0vlIrdAACbmVzcQB+AAwjESjwdAACZXFzcQB+AAyA38r/dAACIyNzcQB+AAzMe2apdAAIZmluYWxpemVzcQB+AAyS7jJHdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAApY29tLmFra2Euc3RyZWFtLmV4cGVyaW1lbnRzLkJhc2ljRXhhbXBsZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAADYWdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA9jb20uYWtrYS5zdHJlYW1zcQB+AKZ0AAhjb20uYWtrYXNxAH4ApnQAG2NvbS5ha2thLnN0cmVhbS5leHBlcmltZW50c3NxAH4ApnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVcSq5yh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8RDpcR2l0XEFra2EtTGVhcm5cUmVhY3RpdmUgU3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUNM16UezaaMK5veIZuMinO9ZL8+o=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDUS2yeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwj2RL6XQADG1hdGVyaWFsaXplcnNxAH4ACzFHuZR0AAZzeXN0ZW11cQB+AAkAAAAec3EAfgALw3pmBnQABm5vdGlmeXNxAH4AC/2UnAh0AAZzb3VyY2VzcQB+AAvYW29ZdAAEd2FpdHNxAH4AC4Z6Vnx0AA0kYXNJbnN0YW5jZU9mc3EAfgALN9O9LnQABmVxdWFsc3NxAH4AC+omKKl0AAxhc0luc3RhbmNlT2ZzcQB+AAvGaoSBdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAvM7cb3dAAIRXhhbXBsZTFzcQB+AAuvP037dAAGcmVzdWx0c3EAfgALPm+sAnQADHN5bmNocm9uaXplZHNxAH4AC8kKNWF0AA0kaXNJbnN0YW5jZU9mc3EAfgALwA03eHQACmZhY3RvcmlhbHNzcQB+AAv03FpndAAEbWFpbnNxAH4AC10umiZ0AAlub3RpZnlBbGxzcQB+AAtb6J31dAAMaXNJbnN0YW5jZU9mc3EAfgALX/52oHQAAj09c3EAfgALQbBpjnQABWNsb25lc3EAfgALnxiIkHQABiRpbml0JHNxAH4AC/2xBC50AAhsaW5lU2lua3NxAH4AC03/txF0AARkb25lc3EAfgALLo8DzHQACHRvU3RyaW5nc3EAfgALhYXsnXQABGFyZ3NzcQB+AAuqnTurdAACIT1zcQB+AAtJmjz/dAAIZ2V0Q2xhc3NzcQB+AAsvDEtydAACbmVzcQB+AAvZbQpUdAACZXFzcQB+AAvvqcUhdAALZGVsYXllZEluaXRzcQB+AAuW5UUZdAACIyNzcQB+AAuy4OkDdAAIZmluYWxpemVzcQB+AAu/pO88dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAkY29tLmFra2Euc3RyZWFtLmV4cGVyaW1lbnRzLkV4YW1wbGUxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdnNxAH4AcXVxAH4AUgAAAABzcQB+AHF1cQB+AFIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFhxAH4AYXVxAH4AYgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AIB4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgBkAHEAfgArdXEAfgBnAAAAAHNxAH4AjXQABFVuaXRxAH4Ak3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AIB4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGp0AAVQbGFpbnEAfgA9c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCOWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB1c3EAfgCNdAAFQXJyYXlxAH4Ak3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCNdAAGU3RyaW5nc3EAfgCRc3EAfgCUdXEAfgCXAAAAA3NxAH4AmXQABGphdmFzcQB+AJl0AARsYW5ncQB+AJ5zcQB+AHF1cQB+ALUAAAAEc3EAfgCNdAADQXBwcQB+AJNzcQB+AI10AAtEZWxheWVkSW5pdHEAfgCTc3EAfgCNdAAGT2JqZWN0cQB+ALlzcQB+AI10AANBbnlxAH4Ak3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAD2NvbS5ha2thLnN0cmVhbXNxAH4AzHQACGNvbS5ha2thc3EAfgDMdAAbY29tLmFra2Euc3RyZWFtLmV4cGVyaW1lbnRzc3EAfgDMdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVxKrnKHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADxEOlxHaXRcQWtrYS1MZWFyblxSZWFjdGl2ZSBTdHJlYW1zXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQaHmxlhmYHtjOqtJYZTUaWR+jWfg==
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAscejZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjcmrbnQADG1hdGVyaWFsaXplcnNxAH4ACwt6pqZ0AAZzeXN0ZW11cQB+AAkAAAA2c3EAfgAL5FZOt3QABm5vdGlmeXNxAH4AC0NqgIh0AAd1bmFwcGx5c3EAfgALHak5snQACEV4YW1wbGUyc3EAfgALTBPfBHQAB2N1cnJpZWRzcQB+AAuWhE5+dAAGYXV0aG9yc3EAfgAL4kBFgHQABGJvZHlzcQB+AAt/bw6WdAAEbmFtZXNxAH4ACxK9Zkl0AAR3YWl0c3EAfgAL8fvfs3QADmNvcHkkZGVmYXVsdCQyc3EAfgAL1aoPSHQADSRhc0luc3RhbmNlT2ZzcQB+AAug/w2gdAAHY29tcG9zZXNxAH4ACxSCDRJ0AAxwcm9kdWN0QXJpdHlzcQB+AAskBzkddAAGZXF1YWxzc3EAfgAL7LRv3XQADGFzSW5zdGFuY2VPZnNxAH4ACy1ge4Z0AA5leGVjdXRpb25TdGFydHNxAH4ACysZ/B10AARha2thc3EAfgALoafj6XQACGhhc2hUYWdzc3EAfgALYcgzRXQADHN5bmNocm9uaXplZHNxAH4AC0XqPVF0AA0kaXNJbnN0YW5jZU9mc3EAfgALVC25AHQAB2FuZFRoZW5zcQB+AAvM0vR5dAAGdHVwbGVkc3EAfgALncup1nQACGNhbkVxdWFsc3EAfgALHFfepnQACXRpbWVTdGFtcHNxAH4ACwQuXe50AARtYWluc3EAfgALRx0NxXQADXByb2R1Y3RQcmVmaXhzcQB+AAu0PCwkdAAJbm90aWZ5QWxsc3EAfgAL8trBRnQADGlzSW5zdGFuY2VPZnNxAH4ACzCq4d10AAY8aW5pdD5zcQB+AAsEMzNkdAAHYXV0aG9yc3NxAH4AC0CKusd0AAVhcHBseXNxAH4AC/HbiRd0AAI9PXNxAH4AC5Klflt0AAVjbG9uZXNxAH4AC2UueUZ0AAVUd2VldHNxAH4AC4hsTWV0AAZBdXRob3JzcQB+AAv9hlN7dAAGJGluaXQkc3EAfgALWZEal3QADmNvcHkkZGVmYXVsdCQzc3EAfgALQUQo0nQABGNvcHlzcQB+AAsjs7/RdAAEZG9uZXNxAH4AC/ZKpCB0AAh0b1N0cmluZ3NxAH4AC3ExaqJ0AARhcmdzc3EAfgAL8xd++nQAAiE9c3EAfgALe3zz3nQACGdldENsYXNzc3EAfgALymha83QADmNvcHkkZGVmYXVsdCQxc3EAfgALAG1T/3QAAm5lc3EAfgALUOTiKHQAB2hhbmRsZXJzcQB+AAv0BcRydAAHSGFzaFRhZ3NxAH4AC2qj3sR0AAJlcXNxAH4AC8X36Lt0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAv8IcpmdAALZGVsYXllZEluaXRzcQB+AAvoKEh7dAACIyNzcQB+AAsPk7E/dAAIZmluYWxpemVzcQB+AAsDlvW/dAAGdHdlZXRzc3EAfgALaARVz3QADnByb2R1Y3RFbGVtZW50c3EAfgALC3Rzv3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ah3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJGNvbS5ha2thLnN0cmVhbS5leHBlcmltZW50cy5FeGFtcGxlMnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AoXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCHTAAJaW5oZXJpdGVkcQB+AIdMAAdwYXJlbnRzcQB+AId4cQB+AKZzcQB+AKF1cQB+AIIAAAAAc3EAfgChdXEAfgCCAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCIcQB+AJF1cQB+AJIAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCweHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKV0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ApXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AynNxAH4AlABxAH4AQXVxAH4AlwAAAABzcQB+AL10AARVbml0cQB+AMN1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCweHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCadAAFUGxhaW5xAH4AYXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AvlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ApXNxAH4AvXQABUFycmF5cQB+AMN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AvXQABlN0cmluZ3NxAH4AwXNxAH4AxHVxAH4AxwAAAANzcQB+AMl0AARqYXZhc3EAfgDJdAAEbGFuZ3EAfgDOc3EAfgChdXEAfgDlAAAABHNxAH4AvXQAA0FwcHEAfgDDc3EAfgC9dAALRGVsYXllZEluaXRxAH4Aw3NxAH4AvXQABk9iamVjdHEAfgDpc3EAfgC9dAADQW55cQB+AMN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AA9jb20uYWtrYS5zdHJlYW1zcQB+APx0AAhjb20uYWtrYXNxAH4A/HQAG2NvbS5ha2thLnN0cmVhbS5leHBlcmltZW50c3NxAH4A/HQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVcSq5yh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA8RDpcR2l0XEFra2EtTGVhcm5cUmVhY3RpdmUgU3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqYncBioizjn/km3b8iUJlbT92ec=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAolhhvAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNLNyYp0AAZub3RpZnlzcQB+AAzjQtTcdAAPc3Vic2NyaWJlckFjdG9yc3EAfgAMNxSLE3QABHdhaXRzcQB+AAwn9LTGdAANJGFzSW5zdGFuY2VPZnNxAH4ADBjJAMt0AAZzeXN0ZW1zcQB+AAxyXSAfdAAGZXF1YWxzc3EAfgAMhXO5oXQACnN1YnNjcmliZXJzcQB+AAxum7owdAAMYXNJbnN0YW5jZU9mc3EAfgAM8GP+B3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMQd8MJHQADHN5bmNocm9uaXplZHNxAH4ADBxy6VN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMc/rI13QABG1haW5zcQB+AAwuqdD0dAAJbm90aWZ5QWxsc3EAfgAMFCRa5nQAB0ZpYk1haW5zcQB+AAzrZrxEdAAMaXNJbnN0YW5jZU9mc3EAfgAMeGs2VXQAAj09c3EAfgAMbtciUnQABWNsb25lc3EAfgAMlPicJ3QACXB1Ymxpc2hlcnNxAH4ADIlBBmt0AAYkaW5pdCRzcQB+AAwtZepZdAAOcHVibGlzaGVyQWN0b3JzcQB+AAzeyvWfdAAIdG9TdHJpbmdzcQB+AAxB4CSndAAEYXJnc3NxAH4ADFitSU50AAIhPXNxAH4ADL3TV5B0AAhnZXRDbGFzc3NxAH4ADFhIqbd0AAJuZXNxAH4ADJSZlNF0AAJlcXNxAH4ADFY6HiV0AAtkZWxheWVkSW5pdHNxAH4ADKjbEGx0AAIjI3NxAH4ADHMWQ+x0AAhmaW5hbGl6ZXNxAH4ADJT3SJZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AC1jb20uYWtrYS5zdHJlYW0uZXhwZXJpbWVudHMuZmlib25ub2NpLkZpYk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgByc3EAfgBtdXEAfgBOAAAAAHNxAH4AbXVxAH4ATgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVHEAfgBddXEAfgBeAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AfHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJZzcQB+AGAAcQB+ACV1cQB+AGMAAAAAc3EAfgCJdAAEVW5pdHEAfgCPdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AfHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZnQABVBsYWlucQB+ADlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIpbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHFzcQB+AIl0AAVBcnJheXEAfgCPdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIl0AAZTdHJpbmdzcQB+AI1zcQB+AJB1cQB+AJMAAAADc3EAfgCVdAAEamF2YXNxAH4AlXQABGxhbmdxAH4AmnNxAH4AbXVxAH4AsQAAAARzcQB+AIl0AANBcHBxAH4Aj3NxAH4AiXQAC0RlbGF5ZWRJbml0cQB+AI9zcQB+AIl0AAZPYmplY3RxAH4AtXNxAH4AiXQAA0FueXEAfgCPdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAPY29tLmFra2Euc3RyZWFtc3EAfgDIdAAIY29tLmFra2FzcQB+AMh0ABtjb20uYWtrYS5zdHJlYW0uZXhwZXJpbWVudHNzcQB+AMh0ACVjb20uYWtrYS5zdHJlYW0uZXhwZXJpbWVudHMuZmlib25ub2Npc3EAfgDIdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVxKrnKHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADxEOlxHaXRcQWtrYS1MZWFyblxSZWFjdGl2ZSBTdHJlYW1zXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTZFN6SLWcGenVk9cuVFHUGjVz7mQ==
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCfdlKhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8mFx5XQABHNlbGZzcQB+AAv2oXTCdAAHY29udGV4dHVxAH4ACQAAADRzcQB+AAsF0AqEdAAGbm90aWZ5c3EAfgALY11Zr3QAB1JlY2VpdmVzcQB+AAvBkm/idAALaXNDb21wbGV0ZWRzcQB+AAv9lUL0dAAEd2FpdHNxAH4AC9KQZCl0AA0kYXNJbnN0YW5jZU9mc3EAfgAL4SNx5nQACmlzQ2FuY2VsZWRzcQB+AAuqi3MVdAALdG90YWxEZW1hbmRzcQB+AAsidGRedAAGZXF1YWxzc3EAfgALfhesPHQADGFzSW5zdGFuY2VPZnNxAH4ACxy1f9V0AAhwcmV2aW91c3NxAH4ACwaIJJp0AAxzeW5jaHJvbml6ZWRzcQB+AAsCxeeidAANJGlzSW5zdGFuY2VPZnNxAH4AC4eaCqd0AAdyZWNlaXZlc3EAfgALulgWtXQACnByZVJlc3RhcnRzcQB+AAuYMawJdAANYXJvdW5kUmVjZWl2ZXNxAH4ACx5E8vN0AA9vbkVycm9yVGhlblN0b3BzcQB+AAslLrZtdAALcG9zdFJlc3RhcnRzcQB+AAvHvjhqdAAIcG9zdFN0b3BzcQB+AAvveBbTdAAJbm90aWZ5QWxsc3EAfgALsa3HmnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALUXcrKnQADGlzSW5zdGFuY2VPZnNxAH4AC3UQyPh0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALF1JU4nQADmFyb3VuZFBvc3RTdG9wc3EAfgALG/JqgXQABjxpbml0PnNxAH4AC+RwNlV0AAhwcmVTdGFydHNxAH4ACyxljJV0AAdvbkVycm9yc3EAfgALImT5NHQAEkZpYm9uYWNjaVB1Ymxpc2hlcnNxAH4AC0614TB0AAl1bmhhbmRsZWRzcQB+AAs1vfrzdAACPT1zcQB+AAvl66STdAAOaXNFcnJvckVtaXR0ZWRzcQB+AAvn61sbdAAFY2xvbmVzcQB+AAut0LI8dAASb25Db21wbGV0ZVRoZW5TdG9wc3EAfgALmDf8MXQABiRpbml0JHNxAH4ACx6AlwV0AAhpc0FjdGl2ZXNxAH4ACz0MSK90AAZvbk5leHRzcQB+AAugFEhWdAAGc2VuZGVyc3EAfgALQNSVdHQAB25leHRGaWJzcQB+AAtjdEPLdAAIdG9TdHJpbmdzcQB+AAuilumzdAACIT1zcQB+AAuFyNifdAAIZ2V0Q2xhc3NzcQB+AAtY5xMqdAAKb25Db21wbGV0ZXNxAH4AC0+qFbF0AAhzZW5kRmlic3NxAH4AC1qtiy90AAdjdXJyZW50c3EAfgALb0/Bx3QAAm5lc3EAfgALOfov6HQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACxfYFXV0AAJlcXNxAH4AC2HHATp0ABNzdWJzY3JpcHRpb25UaW1lb3V0c3EAfgALETIWynQAA2xvZ3NxAH4AC7vak810AAIjI3NxAH4AC3wx6SN0AAhmaW5hbGl6ZXNxAH4ACyKacxV0AAhoYXNoQ29kZXNxAH4ACxzBcQl0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADhjb20uYWtrYS5zdHJlYW0uZXhwZXJpbWVudHMuZmlib25ub2NpLkZpYm9uYWNjaVB1Ymxpc2hlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AINMAAlpbmhlcml0ZWRxAH4Ag0wAB3BhcmVudHNxAH4Ag3hxAH4AoHNxAH4Am3VxAH4AfgAAAABzcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCfdAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgC4dAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AuXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ArVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4An3NxAH4ArHQADkFjdG9yUHVibGlzaGVyc3EAfgCwc3EAfgCzdXEAfgC2AAAABHNxAH4AuHQABGFra2FzcQB+ALh0AAZzdHJlYW1zcQB+ALh0AAVhY3RvcnEAfgC/dXEAfgCqAAAAAXNxAH4ArHQABkJpZ0ludHNxAH4AsHNxAH4As3VxAH4AtgAAAANzcQB+ALh0AAVzY2FsYXNxAH4AuHQABG1hdGhxAH4Av3NxAH4ArHQABUFjdG9ycQB+ALJzcQB+AKx0AAZPYmplY3RzcQB+ALBzcQB+ALN1cQB+ALYAAAADc3EAfgC4dAAEamF2YXNxAH4AuHQABGxhbmdxAH4Av3NxAH4ArHQAA0FueXNxAH4AsHNxAH4As3VxAH4AtgAAAAJzcQB+ALhxAH4A1XEAfgC/dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAPY29tLmFra2Euc3RyZWFtc3EAfgDrdAAIY29tLmFra2FzcQB+AOt0ABtjb20uYWtrYS5zdHJlYW0uZXhwZXJpbWVudHNzcQB+AOt0ACVjb20uYWtrYS5zdHJlYW0uZXhwZXJpbWVudHMuZmlib25ub2Npc3EAfgDrdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVxKrnKHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADxEOlxHaXRcQWtrYS1MZWFyblxSZWFjdGl2ZSBTdHJlYW1zXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQPTwA2cdLa80kw3FJ8GNyCrJXr8A==
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAcV8RBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwX4O893QABHNlbGZzcQB+AAuW63CbdAAHY29udGV4dHVxAH4ACQAAACpzcQB+AAuLmHJOdAAGbm90aWZ5c3EAfgALn/1NknQAB1JlY2VpdmVzcQB+AAt16TVWdAAGY2FuY2Vsc3EAfgALJj1jrnQABHdhaXRzcQB+AAu1sbIydAAHcmVxdWVzdHNxAH4ACxMCA6N0AA0kYXNJbnN0YW5jZU9mc3EAfgALUikOfHQABmVxdWFsc3NxAH4ACy5cBTd0AAxhc0luc3RhbmNlT2ZzcQB+AAu5lIVGdAAMc3luY2hyb25pemVkc3EAfgAL/qyRTXQADSRpc0luc3RhbmNlT2ZzcQB+AAuulFnjdAAHcmVjZWl2ZXNxAH4AC+x1nIt0AApwcmVSZXN0YXJ0c3EAfgALifgngnQADWFyb3VuZFJlY2VpdmVzcQB+AAusNI/0dAALcG9zdFJlc3RhcnRzcQB+AAuptYjSdAAIcG9zdFN0b3BzcQB+AAtbTBmPdAAJbm90aWZ5QWxsc3EAfgALNn0UKnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALq8FdKHQADGlzSW5zdGFuY2VPZnNxAH4AC6KprNJ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALwVrJ43QADmFyb3VuZFBvc3RTdG9wc3EAfgAL2JmwbnQABjxpbml0PnNxAH4AC3yFP6R0AAhwcmVTdGFydHNxAH4ACz8QQ6F0AAl1bmhhbmRsZWRzcQB+AAsVb7r3dAATRmlib25hY2NpU3Vic2NyaWJlcnNxAH4AC2OydWR0AAhjYW5jZWxlZHNxAH4AC/N9Y0F0AAI9PXNxAH4ACw0i7lV0AAVjbG9uZXNxAH4AC30Rlbh0ABJyZW1haW5pbmdSZXF1ZXN0ZWRzcQB+AAtkoengdAAGJGluaXQkc3EAfgAL53MUrXQABnNlbmRlcnNxAH4AC0ErtsV0AAh0b1N0cmluZ3NxAH4ACxMTzZ10AAIhPXNxAH4AC/7uCm50AAhnZXRDbGFzc3NxAH4AC96dH/Z0AA9yZXF1ZXN0U3RyYXRlZ3lzcQB+AAuVfWvxdAACbmVzcQB+AAs1YMpVdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALl66oUnQAAmVxc3EAfgALvT3GAHQAA2xvZ3NxAH4ACwFrKi50AAIjI3NxAH4AC7B8wXV0AAhmaW5hbGl6ZXNxAH4AC6nYWDB0AAhoYXNoQ29kZXNxAH4AC9iVsNp0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADljb20uYWtrYS5zdHJlYW0uZXhwZXJpbWVudHMuZmlib25ub2NpLkZpYm9uYWNjaVN1YnNjcmliZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ah3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBvTAAJaW5oZXJpdGVkcQB+AG9MAAdwYXJlbnRzcQB+AG94cQB+AIxzcQB+AId1cQB+AGoAAAAAc3EAfgCHdXEAfgBqAAAAAHNxAH4Ah3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAFc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ai3QADEFjdG9yTG9nZ2luZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ai3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4ApHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKVzcQB+AJh0AA9BY3RvclN1YnNjcmliZXJzcQB+AJxzcQB+AJ91cQB+AKIAAAAEc3EAfgCkdAAEYWtrYXNxAH4ApHQABnN0cmVhbXNxAH4ApHQABWFjdG9ycQB+AKtzcQB+AJh0AAVBY3RvcnEAfgCec3EAfgCYdAAGT2JqZWN0c3EAfgCcc3EAfgCfdXEAfgCiAAAAA3NxAH4ApHQABGphdmFzcQB+AKR0AARsYW5ncQB+AKtzcQB+AJh0AANBbnlzcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkdAAFc2NhbGFxAH4Aq3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAD2NvbS5ha2thLnN0cmVhbXNxAH4Ay3QACGNvbS5ha2thc3EAfgDLdAAbY29tLmFra2Euc3RyZWFtLmV4cGVyaW1lbnRzc3EAfgDLdAAlY29tLmFra2Euc3RyZWFtLmV4cGVyaW1lbnRzLmZpYm9ubm9jaXNxAH4Ay3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVcSq5yh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA8RDpcR2l0XEFra2EtTGVhcm5cUmVhY3RpdmUgU3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUa3rfbhKUPIx15J+3h/SpfvV3T0Q=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAuwCLuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw5N6H0XQAC2FjdG9yU3lzdGVtc3EAfgAL7ESYznQADG1hdGVyaWFsaXplcnVxAH4ACQAAABxzcQB+AAuIWfkwdAAGbm90aWZ5c3EAfgAL+vPWmHQABnNvdXJjZXNxAH4AC1WmMTl0AAR3YWl0c3EAfgALCFwUnnQADSRhc0luc3RhbmNlT2ZzcQB+AAtLqTnJdAAGZXF1YWxzc3EAfgALbiB6N3QADGFzSW5zdGFuY2VPZnNxAH4AC/0uqJJ0AA5leGVjdXRpb25TdGFydHNxAH4ACxo87pZ0AAxzeW5jaHJvbml6ZWRzcQB+AAu9qlYJdAANJGlzSW5zdGFuY2VPZnNxAH4AC3oARwl0AARtYWluc3EAfgALPwqip3QACW5vdGlmeUFsbHNxAH4AC3KQj4x0AAxpc0luc3RhbmNlT2ZzcQB+AAtOEbDmdAADcmVzc3EAfgAL8O32gXQAAj09c3EAfgALPKzKiXQABWNsb25lc3EAfgALbSHysXQABiRpbml0JHNxAH4AC6pJAER0AAtidWlsZFNvdXJjZXNxAH4AC5WXjmJ0AAh0b1N0cmluZ3NxAH4ACwa29k90AARhcmdzc3EAfgAL5riXrHQAAiE9c3EAfgALPBdNMnQACGdldENsYXNzc3EAfgALrvl4V3QAEFdvcmRDb3VudEV4YW1wbGVzcQB+AAtq4sMPdAACbmVzcQB+AAvI7paWdAACZXFzcQB+AAtH1rNzdAALZGVsYXllZEluaXRzcQB+AAvYr/bCdAACIyNzcQB+AAsBjXmHdAAIZmluYWxpemVzcQB+AAsQvLWPdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAsY29tLmFra2Euc3RyZWFtLmV4cGVyaW1lbnRzLldvcmRDb3VudEV4YW1wbGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgByc3EAfgBtdXEAfgBOAAAAAHNxAH4AbXVxAH4ATgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVHEAfgBddXEAfgBeAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AfHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJZzcQB+AGAAcQB+ACV1cQB+AGMAAAAAc3EAfgCJdAAEVW5pdHEAfgCPdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AfHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZnQABVBsYWlucQB+ADdzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIpbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHFzcQB+AIl0AAVBcnJheXEAfgCPdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIl0AAZTdHJpbmdzcQB+AI1zcQB+AJB1cQB+AJMAAAADc3EAfgCVdAAEamF2YXNxAH4AlXQABGxhbmdxAH4AmnNxAH4AbXVxAH4AsQAAAARzcQB+AIl0AANBcHBxAH4Aj3NxAH4AiXQAC0RlbGF5ZWRJbml0cQB+AI9zcQB+AIl0AAZPYmplY3RxAH4AtXNxAH4AiXQAA0FueXEAfgCPdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAPY29tLmFra2Euc3RyZWFtc3EAfgDIdAAIY29tLmFra2FzcQB+AMh0ABtjb20uYWtrYS5zdHJlYW0uZXhwZXJpbWVudHNzcQB+AMh0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVXEqucodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAPEQ6XEdpdFxBa2thLUxlYXJuXFJlYWN0aXZlIFN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ3yxH04jW3laZP9E4ht56KDfnZ6
 external apis:
 0 items
 source infos:
-2 items
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\experiments\SimpleGraphExample.scala -> 
+9 items
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\experiments\processors\BasicProcessors.scala -> 
 AAAAAAAAAAA=
-D:\Git\Akka-Scala\Chapter Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> 
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\akka\stream\main\Main.scala -> 
+AAAAAAAAAAA=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\BasicExamples.scala -> 
+AAAAAAAAAAA=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example1.scala -> 
+AAAAAAAAAAA=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\Example2.scala -> 
+AAAAAAAAAAA=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibMain.scala -> 
+AAAAAAAAAAA=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciPublisher.scala -> 
+AAAAAAAAAAA=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\fibonnoci\FibonacciSubscriber.scala -> 
+AAAAAAAAAAA=
+D:\Git\Akka-Learn\Reactive Streams\src\main\scala\com\akka\stream\experiments\WordCountExample.scala -> 
 AAAAAAAAAAA=
 compilations:
-2 items
+3 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVCVQFTl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9ob21lL2traXNob3JlL0dpdC9Ba2thLVNjYWxhL0NoYXB0ZXIgUmVhY3RpdmUgU3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVCgv0zR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAREQ6XEdpdFxBa2thLVNjYWxhXENoYXB0ZXIgUmVhY3RpdmUgU3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVcSq5yh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEQ6XEdpdFxBa2thLUxlYXJuXFJlYWN0aXZlIFN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
