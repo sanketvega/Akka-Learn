@@ -13,5 +13,7 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" % "akka-persistence_2.11" % "2.4.7",
   "com.typesafe.akka" % "akka-contrib_2.11" % "2.4.7",
   "com.typesafe.akka" % "akka-stream-testkit_2.11" % "2.4.7",
+  "io.spray" %% "spray-client" % "1.3.2",
+  "org.jsoup" % "jsoup" % "1.9.2",
   "org.scalatest" %% "scalatest" % "2.2.4" % "test"
 )
