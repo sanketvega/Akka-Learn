@@ -1,10 +1,9 @@
-package com.akka.stream.experiments.fibonnoci
+package experiments.fibonacci
 
 import java.math.BigInteger
 import akka.actor._
 import akka.stream.actor._
-
-import ActorSubscriberMessage._
+import akka.stream.actor.ActorSubscriberMessage._
 
 class FibonacciSubscriber(delay: Long) extends ActorSubscriber with ActorLogging {
   val requestStrategy = WatermarkRequestStrategy(50)

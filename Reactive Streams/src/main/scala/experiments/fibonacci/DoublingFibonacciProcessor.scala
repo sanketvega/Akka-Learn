@@ -1,9 +1,8 @@
-package com.akka.stream.experiments.fibonnoci
+package experiments.fibonacci
 
 import akka.stream.actor.ActorPublisher
 import java.math.BigInteger
 import akka.stream.actor.ActorSubscriber
-import akka.actor.ActorLogging
 import akka.stream.actor.MaxInFlightRequestStrategy
 import scala.collection.mutable.Queue
 import akka.stream.actor.ActorSubscriberMessage._

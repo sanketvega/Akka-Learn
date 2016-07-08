@@ -1,16 +1,15 @@
-package com.akka.stream.experiments
+package experiments
 
 import akka.actor.ActorSystem
 import akka.stream.ActorMaterializer
 import akka.stream.scaladsl.Source
 import akka.NotUsed
-import akka.stream.scaladsl.Flow
 import akka.stream.scaladsl.Sink
 import scala.util.Success
 import scala.util.Failure
 import scala.concurrent.Await
 import scala.concurrent.duration.Duration
-import akka.stream.experiments.processors.BasicProcessors._
+import experiments.flow.BasicProcessors._
 
 
 object BasicExamples {

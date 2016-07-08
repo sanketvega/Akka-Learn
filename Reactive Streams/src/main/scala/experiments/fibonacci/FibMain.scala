@@ -1,10 +1,11 @@
-package com.akka.stream.experiments.fibonnoci
+package experiments.fibonacci
 
 import akka.actor.ActorSystem
 import akka.actor.Props
 import akka.stream.actor.ActorPublisher
 import java.math.BigInteger
 import akka.stream.actor.ActorSubscriber
+
 
 object FibMain extends App {
 

@@ -1,4 +1,4 @@
-package com.akka.stream.experiments
+package experiments
 
 import akka.actor.ActorSystem
 import akka.stream.ActorMaterializer
