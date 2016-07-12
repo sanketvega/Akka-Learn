@@ -15,7 +15,8 @@ import scala.concurrent.Future
 import scala.util.Try
 
 object Main extends App {
-
+  
+  
   implicit val system = ActorSystem("crawler")
   implicit val materializer = ActorMaterializer()
 
@@ -40,7 +41,7 @@ object Main extends App {
 
   Thread.sleep(1000L)
 
-  producerRef ! Url("https://en.wikipedia.org/wiki/Akka_(toolkit)", 2)
+  producerRef ! Url("https://en.wikipedia.org/wiki/Apple_Inc.", 2)
 //  producerRef ! Url("https://next.ft.com/companies/us", 5)
 //  producerRef ! Url("http://www.manta.com/mb", 5)
 //  producerRef ! Url("http://fortune.com/best-companies/", 5)
