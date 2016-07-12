@@ -18,3 +18,5 @@ reload
 clean
 test
 exit
+eclipse
+exit
