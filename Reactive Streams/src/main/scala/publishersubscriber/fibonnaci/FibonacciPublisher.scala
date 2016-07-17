@@ -1,4 +1,4 @@
-package experiments.fibonacci
+package publishersubscriber.fibonnaci
 
 import akka.stream.actor._
 import akka.actor._

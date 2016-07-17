@@ -1,4 +1,4 @@
-package experiments.fibonacci
+package publishersubscriber.fibonnaci
 
 import akka.stream.actor.ActorPublisher
 import java.math.BigInteger

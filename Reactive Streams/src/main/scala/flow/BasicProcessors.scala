@@ -1,4 +1,4 @@
-package experiments.flow
+package flow
 
 import akka.stream.scaladsl.Flow
 import akka.NotUsed

@@ -1,10 +1,13 @@
-package experiments.fibonacci
+package publishersubscriber
 
 import akka.actor.ActorSystem
 import akka.actor.Props
 import akka.stream.actor.ActorPublisher
 import java.math.BigInteger
 import akka.stream.actor.ActorSubscriber
+import publishersubscriber.fibonnaci.FibonacciSubscriber
+import publishersubscriber.fibonnaci.DoublingFibonacciProcessor
+import publishersubscriber.fibonnaci.FibonacciPublisher
 
 
 object FibMain extends App {

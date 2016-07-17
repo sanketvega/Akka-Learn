@@ -9,7 +9,7 @@ import scala.util.Success
 import scala.util.Failure
 import scala.concurrent.Await
 import scala.concurrent.duration.Duration
-import experiments.flow.BasicProcessors._
+import flow.BasicProcessors._
 
 
 object BasicExamples {
